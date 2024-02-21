@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Vinay P Hundekar</h1>
 <!-- <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> -->
 
-- 👀 I’m interested in programing as well as designing(UI/UX and 3D models)
-- 🌱 I’m currently learning DSA,3D modeling, API's 
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning NodeJS 
 - 📫 How to reach me: vinayphundekar@gmail.com
 - ⚡ Fun fact, I am an introvert
-<!-- - 💞️ I’m looking to collaborate on Web Development -->
+- 💞️ I’m looking to collaborate on Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
