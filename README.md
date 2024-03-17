@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> -->
 
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning Web Development. 
 - 📫 How to reach me: vinayphundekar@gmail.com
 - ⚡ Fun fact, I am an introvert
 - 💞️ I’m looking to collaborate on Web Development
