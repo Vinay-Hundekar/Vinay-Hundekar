@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vinay P Hundekar</h1>
 <!-- <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> -->
 
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Web Development. 
+- 👀 I’m an engineer.
+- 🌱 I’m currently working as a Software Engineer @LSEG. 
 - 📫 How to reach me: vinayphundekar@gmail.com
 - ⚡ Fun fact, I am an introvert
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on end-to-end projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
